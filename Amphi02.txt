@@ -1,0 +1,90 @@
+Pre-general -> general -> final(正式演出)
+
+Abonnement pour les jeuns (Champsee-Lysee)
+
+Activite: L'Odyssee de Penelope(la femme d'Odysse) -> retour sur place, d'interaction (now -> fevrier)
+
+----------------------------------------------------
+Histoire de l'opera (debut 18eme) -> opera "baroque"
+----------------------------------------------------
+- 词源学介绍
+- 18eme -> negatif pour "baroque" (une espece pas parfait, avec gout mixe)
+
+- "opera" n'existe pas: favola m musica/ drama per musica/ tragedi lyrique
+
+- opera seria/buffa(serious/rire)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+1. Monteverdi et la "parole"
+	- lieu: palais de prince (Gonzague, etc.)
+	- shock expressive entre la voix et la basse(乐谱：chiffre indique le type d'accord d'instrument, espace entre les 音符, )
+
+	- parole expressive
+	- Orfeo -> 1636 Combat de Tancredi (Combattimento) 
+		- (https://en.wikipedia.org/wiki/Il_combattimento_di_Tancredi_e_Clorinda)
+		- T.Tasso Jerusalem delitree
+
+		- imitation: bruits exterieurs (Il faut absolutement fair ce qui est ecrit. pour montrer les effets neufs 新的表现方式不被演奏者接受)
+		- rythme/timbe
+		- tempo pas regulier, debit, lie a la parole
+		- musique instrumentale a son propre moyen d'expression
+
+	- Moyenne musical "moderne": seconda prattica (un autre monde dans musique)
+	- Opera/l'Eglise: "vepre de la vierge" (opera pour l'eglise, religion + non-religion(orchestre, solo, chorus)) [https://en.wikipedia.org/wiki/Vespro_della_Beata_Vergine] 
+
+	- Theatre:
+		- Grecs
+		- XIeme siecle, Paques -> Mystere (ex. les trois maries, liturgical drama) [https://fr.wikipedia.org/wiki/Myst%C3%A8re_(th%C3%A9%C3%A2tre)] 
+			- a capella 清唱
+			- pas d'expression personnel
+
+	- Contemporain de Monteverdi:
+		- Shakespear
+		- Calderon
+		- Corneille
+		- (commedia dell'arte: tentative de faire exister la personnage)
+
+	- Theatre de Drottingholms: comment fonctionne le theatre a cet epoque : fermes, theatre "a l'italienne" qui marche sur l'illusion, perspective, technologie
+
+2. Lieux differents
+	- "a l'italienne": les illusions(nuages, fumes, etc.), les loges, les cercles (en face est superieur) 
+		-> ex. Cyrano de Bergrac
+		- societe hierarchique
+		- payant Venise
+	- theatre de bastille: moderne, moins d'hierarchie
+
+3. Deux grandes traditions:
+	** tradition italienne(Monteverdi): declamation n'est pas acceptee en France ou l'Europe 
+	-> Metastase
+	-> l'immitation musicale du parler / de la passion, 
+	-> formes: l'air(forme musicale pour la passion) + recitatif(pour histoire)
+
+	- ex. rinaldo de Handel marilyn horne completa (aria di furrore, women's fury)
+	-> forme: aria da capo: A -> B -> A -> A'
+	-> travail dans les formes pre-existe (qui est totalement changee dans l'epoque romantique)
+
+	** tradition Francaise: 
+	- tragidie lyrique
+	- 1673 Cadmus et Hermione [https://en.wikipedia.org/wiki/Cadmus_et_Hermione]
+	- Armide-Enfin il est en ma puissance (passion destructive VS. passion d'amour)
+	- Ecrivan: Lully, Rameau
+
+4. Opera et l'histoire de son
+	- Galilee, pere: Vincenzo, Camerata Bardi, Florence
+		- savoir de voix: Triuium, mots || Quadriuium, nombre(l'arithmethic, la geometrie, l'astronomie, la musique(proportion de son -> proportion du monde))
+		- comment integrer l'histore et la musique
+		- un mot cle: dissonance (lack of harmony)
+
+	- acoustique - scene experimentale
+		- une lettre emouvante: Discours de Galilee, 1636, reflection sur le mouvement pendulaire (impetus, 推动力)
+			- experience 1: verre d'eau: non seulement le corde, mais le son meme, est vibratoire
+			- conclusion 1: son est vibration de l'oreille
+			- experience 2: racler un ciseau de fer 
+			- conclusion 2: voire le son par l'image de poudre de fer: visualiser le son
+			- conclusion 3: le bruit et le son instrumental sont de meme nature
+			- conclusion 4: le corp est aussi un instrument tendu pour creer le son
+			- conclusion final: le plasir de son: le son plus organise, pur, cree le plasir
+
+	- art/science: passion humain/origin physique
+
+	- ex. Theodora de Haendel(mid 18eme) (italie -> angleterre) [https://en.wikipedia.org/wiki/Theodora_(Handel)]
